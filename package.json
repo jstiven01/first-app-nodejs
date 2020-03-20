@@ -1,0 +1,17 @@
+{
+  "name": "first-app-nodejs",
+  "version": "1.0.0",
+  "description": "Node first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Tinjaca",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
